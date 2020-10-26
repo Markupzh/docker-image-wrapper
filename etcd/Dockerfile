@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/etcd:3.4.3-0
-MAINTAINER markupzh <markupzh.ho@gmail.com>
+MAINTAINER markupzh <markupzh@gmail.com>
